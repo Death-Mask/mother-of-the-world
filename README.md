@@ -18,13 +18,13 @@ To install **egyption tourism website**, follow these steps:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/Death-Mask/mother-of-the-world.git
+sudo git clone https://github.com/Death-Mask/egyption-tourism-website.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/Death-Mask/mother-of-the-world.git
+git clone https://github.com/Death-Mask/egyption-tourism-website.git
 ```
 
 ## Contact
