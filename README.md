@@ -1,4 +1,4 @@
-# Egyptour  -  Egyotion tourism website template
+# Egyptour  -  Egyption tourism website template
 Egyptour is a fully responsive tourism website template, responsive for all devices, built using HTML, CSS, and JavaScript.
 
 ## Demo
