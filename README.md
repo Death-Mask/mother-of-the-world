@@ -1,5 +1,5 @@
-# mother of the world - Personal portfolio
-mother of the world is a fully responsive personal portfolio website, responsive for all devices, built using HTML, CSS, and JavaScript.
+# mother of the world - Travel Website Templates
+mother of the world is a fully responsive travel website templates, responsive for all devices, built using HTML, CSS, and JavaScript.
 
 ## Demo
 
