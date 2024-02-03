@@ -1,9 +1,9 @@
-# mother of the world -  tourism website template
-mother of the world is a fully responsive tourism website template, responsive for all devices, built using HTML, CSS, and JavaScript.
+# egyption tourism website  -  tourism website template
+egyption tourism website is a fully responsive tourism website template, responsive for all devices, built using HTML, CSS, and JavaScript.
 
 ## Demo
 
-![mother of the world Desktop Demo](./website-demo-image/desktop.jpg "Desktop Demo")
+![egyption tourism website Desktop Demo](./website-demo-image/desktop.jpg "Desktop Demo")
 
 ## Prerequisites
 
@@ -11,9 +11,9 @@ Before you begin, ensure you have met the following requirements:
 
 * [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
 
-## Installing mother of the world
+## Installing egyption tourism website
 
-To install **mother of the world**, follow these steps:
+To install **egyption tourism website**, follow these steps:
 
 Linux and macOS:
 
