@@ -18,13 +18,13 @@ To install **mother of the world**, follow these steps:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/codewithsadee/vcard-personal-portfolio.git
+sudo git clone https://github.com/Death-Mask/mother-of-the-world.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/codewithsadee/vcard-personal-portfolio.git
+git clone https://github.com/Death-Mask/mother-of-the-world.git
 ```
 
 ## Contact
