@@ -1,9 +1,9 @@
-# egyption tourism website  -  tourism website template
-egyption tourism website is a fully responsive tourism website template, responsive for all devices, built using HTML, CSS, and JavaScript.
+# Egyptour  -  Egyotion tourism website template
+Egyptour is a fully responsive tourism website template, responsive for all devices, built using HTML, CSS, and JavaScript.
 
 ## Demo
 
-![egyption tourism website Desktop Demo](./website-demo-image/desktop.jpg "Desktop Demo")
+![Egyptour Desktop Demo](./website-demo-image/desktop.jpg "Desktop Demo")
 
 ## Prerequisites
 
@@ -11,20 +11,20 @@ Before you begin, ensure you have met the following requirements:
 
 * [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
 
-## Installing egyption tourism website
+## Installing Egyptour
 
-To install **egyption tourism website**, follow these steps:
+To install **Egyptour**, follow these steps:
 
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/Death-Mask/egyption-tourism-website.git
+sudo git clone https://github.com/Death-Mask/Egyptour.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/Death-Mask/egyption-tourism-website.git
+git clone https://github.com/Death-Mask/Egyptour.git
 ```
 
 ## Contact
