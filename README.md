@@ -11,9 +11,9 @@ Before you begin, ensure you have met the following requirements:
 
 * [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
 
-## Installing vCard
+## Installing mother of the world
 
-To install **vCard**, follow these steps:
+To install **mother of the world**, follow these steps:
 
 Linux and macOS:
 
