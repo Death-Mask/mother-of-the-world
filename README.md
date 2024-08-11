@@ -1,5 +1,5 @@
 <div align="center">
-<h2 align="center">Egyptour  -  Egyption tourism website template</h2>
+<h1 align="center">Egyptour  -  Egyption tourism website template</h1>
 Egyptour is a fully responsive tourism website template, responsive for all devices, built using HTML, CSS, and JavaScript.
 <br />
 <br />
