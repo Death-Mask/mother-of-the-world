@@ -25,13 +25,13 @@ To install **Egyptour**, follow these steps:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/Death-Mask/Egyptour.git
+sudo git clone https://github.com/AhmedAbdAlalim-3A/Egyptour.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/Death-Mask/Egyptour.git
+git clone https://github.com/AhmedAbdAlalim-3A/Egyptour.git
 ```
 
 ## Contact
