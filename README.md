@@ -1,6 +1,6 @@
+<div align="center">
 # Egyptour  -  Egyption tourism website template
 Egyptour is a fully responsive tourism website template, responsive for all devices, built using HTML, CSS, and JavaScript.
-<div align="center">
   <br />
   <br />
   <a href="https://codewithsadee.github.io/funel-agency_landing_page/"><strong>➥ Live Demo</strong></a>
