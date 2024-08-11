@@ -1073,6 +1073,11 @@ video::-webkit-media-controls-panel {
   color: var(--marigold);
 }
 
+.copyright-link img{
+  width: 25px;
+  margin-bottom: -9px;
+}
+
 
 /*-----------------------------------*\
   #BACK TO TOP
