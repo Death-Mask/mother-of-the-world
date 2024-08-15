@@ -12,6 +12,14 @@ Egyptour is a fully responsive tourism website template, responsive for all devi
 
 ![Egyptour Desktop Demo](./website-demo-image/desktop.jpg "Desktop Demo")
 
+## programming language and tools
+
+<p>
+   <a href="#">
+    <img src="https://skillicons.dev/icons?i=html,css,js,vscode,ps&perline=7" />
+   </a>
+</p>
+
 ## Prerequisites
 
 Before you begin, ensure you have met the following requirements:
