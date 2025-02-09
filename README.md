@@ -3,7 +3,7 @@
 Egyptour is a fully responsive tourism website template, responsive for all devices, built using HTML, CSS, and JavaScript.
 <br />
 <br />
-<a href="https://ahmedabdalalim-3a.github.io/Egyptour/"><strong>➥ Live Demo</strong></a>
+<a href="https://ahmed-abd-alalim.github.io/Egyptour/"><strong>➥ Live Demo</strong></a>
 <br />
 <br />
 </div>
@@ -33,13 +33,13 @@ To install **Egyptour**, follow these steps:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/AhmedAbdAlalim-3A/Egyptour.git
+sudo git clone https://github.com/ahmed-abd-alalim/Egyptour.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/AhmedAbdAlalim-3A/Egyptour.git
+git clone https://github.com/ahmed-abd-alalim/Egyptour.git
 ```
 
 ## Contact
