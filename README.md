@@ -1,6 +1,6 @@
 <div align="center">
-<h1 align="center">Egyptour  -  Egyption tourism website template</h1>
-Egyptour is a fully responsive tourism website template, responsive for all devices, built using HTML, CSS, and JavaScript.
+<h1 align="center">🏜️ Egyptour – Explore Egypt with a Responsive Tourism Website</h1>
+Egyptour is a fully responsive tourism website designed for visitors exploring Egypt's breathtaking landmarks. Built with HTML, CSS, and JavaScript, this template works seamlessly on all devices, making it perfect for travel agencies, tour guides, and adventurers.
 <br />
 <br />
 <a href="https://ahmed-abd-alalim.github.io/Egyptour/"><strong>➥ Live Demo</strong></a>
@@ -8,9 +8,11 @@ Egyptour is a fully responsive tourism website template, responsive for all devi
 <br />
 </div>
 
+
 ## Demo
 
 ![Egyptour Desktop Demo](./website-demo-image/desktop.jpg "Desktop Demo")
+
 
 ## programming language and tools
 
@@ -20,11 +22,23 @@ Egyptour is a fully responsive tourism website template, responsive for all devi
    </a>
 </p>
 
+
+##  Features
+
+<p>✅Fully Responsive – Optimized for desktops, tablets, and mobile devices</p>
+<p>✅ Discover Egypt’s Top Destinations – Showcases famous sites like the Pyramids, Luxor, and the Red Sea</p>
+<p>✅ Modern UI/UX – Clean and visually stunning design</p>
+<p>✅ Interactive Maps – Helps travelers locate must-see spots</p>
+<p>✅ Smooth Animations – Engaging transitions for a dynamic experience</p>
+<p>✅ Optimized Performance – Fast loading and SEO-friendly</p>
+
+
 ## Prerequisites
 
 Before you begin, ensure you have met the following requirements:
 
 * [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
+
 
 ## Installing Egyptour
 
@@ -42,13 +56,13 @@ Windows:
 git clone https://github.com/ahmed-abd-alalim/Egyptour.git
 ```
 
+
 ## Contact
 
 <p align="left">
   <a href="https://www.linkedin.com/in/ahmed-abd-alalim-286768299/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a>
-<!--   <a href="https://github.com/Death-Mask" target="_blank"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=whit style="border-radius: 30px" target="_blank"></a> -->
-  
 </p>
+
 
 ## License
 
